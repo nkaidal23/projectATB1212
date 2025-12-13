@@ -1,7 +1,7 @@
 package JAVABASICS_001;
 
-public class basicsjava {
+public class test {
     public static void main(String[] args) {
-        System.out.println("neha");
+        System.out.println(hello);
     }
 }
