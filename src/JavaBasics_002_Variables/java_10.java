@@ -3,6 +3,13 @@ package JavaBasics_002_Variables;
 public class java_10 {
     public static void main(String[] args) {
         int num = 5;
-        System.out.printf("%d * 1 = %d" ,num,num*1);
+        System.out.printf("%d * 1 = %d\n" ,num,num*1);
+        System.out.printf("%d * 2 = %d\n" ,num,num*2);
+        System.out.printf("%d * 3 = %d\n" ,num,num*3);
+        System.out.printf("%d * 4 = %d\n" ,num,num*4);
+        System.out.printf("%d * 5 = %d\n" ,num,num*5);
+        System.out.printf("%d * 6 = %d\n" ,num,num*6);
+        System.out.printf("%d * 7 = %d\n" ,num,num*7);
+
     }
 }
