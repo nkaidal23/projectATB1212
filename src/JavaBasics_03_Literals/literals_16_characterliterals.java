@@ -22,7 +22,6 @@ public class literals_16_characterliterals {
         System.out.println("--------");
         System.out.println("ABCD"+carriage_return+"IRIS");
         //delete abcd
-        System.out.println("new"'\n'"line");
         //char c = 'A' \ 65 / Ascii standard
         //unicode character = $ like rupee symbbol
 
