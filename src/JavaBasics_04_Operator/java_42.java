@@ -7,7 +7,8 @@ public class java_42 {
         //int total1 = course+GST;
        // int total = course+(int)GST;//narrowing explicit int + float = int
         //System.out.println(total);
-        float total= course+GST;
+        float total= course+GST; //widdening implicit auto
+       // float total= course+(float)GST; widening explicit
         System.out.println(total);
     }
 

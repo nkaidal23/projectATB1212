@@ -1,6 +1,6 @@
 package task;
 
-public class java_5table {
+public class task1_5table {
 
         public static void main(String[] args) {
 
