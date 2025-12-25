@@ -6,7 +6,7 @@ public class java_50_realageclassification {
         //o/p string =
        // string age = age < 18 = minor ,age > 18 <65 = adult , age > 65 = senior ;
         int age1 = 27 ;
-        String age1 = (age1<18) ? "minor" : (age1>65) ? "senior" : "Adult" ;
+        String age= (age1<18) ? "minor" : (age1>65) ? "senior" : "Adult" ;
         System.out.println(age1);
 
     }
