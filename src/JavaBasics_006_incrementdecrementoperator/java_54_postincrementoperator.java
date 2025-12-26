@@ -13,5 +13,11 @@ public class java_54_postincrementoperator {
         // 7 || 11 | 10
         // 8 |11 | NA
         //9 | 11 | 10
+
+        int a_post1 = 15 ;
+        System.out.println(a_post1++); // print then increment //15 ++
+        System.out.println(a_post1); // 16
+
+        //
     }
 }
